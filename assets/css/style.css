@@ -1,7 +1,14 @@
 header {
-	background-color: green;
+	background-color: grey;
+	font-weight: bolder;
 }
 
 #instructions {
-	background-color: blue;
+	background-color: #eed;
+	position: relative;
+}
+
+#start-btn {
+	align-items: center;
+	margin-left: 100px;
 }
